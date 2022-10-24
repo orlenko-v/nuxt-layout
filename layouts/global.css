@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Circe';
+  src: url('~assets/Circe-Regular.woff2');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Circe';
+  src: url('~assets/Circe-Bold.woff2');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Circe';
+  src: url('~assets/Circe-Light.woff2');
+  font-weight: 350;
+}
+
+html {
+  font-family: 'Circe';
+}
